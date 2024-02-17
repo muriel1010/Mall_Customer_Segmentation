@@ -33,4 +33,4 @@ tailored marketing strategies.
 
 - 60% of cluster 1 shoppers are woman, suggesting that we can work on marketing campaigns on products attracting these customers in the cluster.
 - cluster 2 presents an interesting opportunity to market to the customers for sale events on popular items.
-- Targeted groups having customers with high spending score and high income
+- Targeted groups having customers with high spending score and high income.
